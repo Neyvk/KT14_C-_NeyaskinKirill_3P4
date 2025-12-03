@@ -4,4 +4,6 @@
 <img width="377" height="144" alt="image" src="https://github.com/user-attachments/assets/dae85219-dc0d-495b-b2ce-6c15c26e34ed" />  
 Задание 2  
 <img width="264" height="198" alt="image" src="https://github.com/user-attachments/assets/f135d458-298e-4eaa-ac74-e206fa39fba7" />  
-Задание 3
+Задание 3  
+<img width="981" height="521" alt="image" src="https://github.com/user-attachments/assets/f4feb70d-66bf-4d8c-99ff-990d632401ff" />
+
